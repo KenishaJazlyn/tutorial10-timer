@@ -1,0 +1,1 @@
+C:\Users\LENOVO\Documents\kuliah\TERM4\ADPRO\tutorial10\target\debug\tutorial10.exe: C:\Users\LENOVO\Documents\kuliah\TERM4\ADPRO\tutorial10\src\lib.rs C:\Users\LENOVO\Documents\kuliah\TERM4\ADPRO\tutorial10\src\main.rs
